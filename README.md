@@ -1,2 +1,2 @@
 # Stone_Paper_scissors_game
-Author-Abhikumar Gupta
+<b>Author-Abhikumar Gupta</b>
