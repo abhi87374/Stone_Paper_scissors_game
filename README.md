@@ -26,8 +26,7 @@ Stone-Paper-Scissors is a classic hand game that has been enjoyed for generation
 Before you can enjoy the game, ensure that you have the following:
 
 - A compatible operating system (e.g., Windows, macOS, Linux)
-- Python installed on your system (version X.X or higher)
-- The necessary libraries (list them here, if any)
+
 
 ## How to Play
 
