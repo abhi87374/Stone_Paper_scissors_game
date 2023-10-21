@@ -1,4 +1,5 @@
-Stone-Paper-Scissors Game
+<p1>Stone-Paper-Scissors Game</p1>
+
 Welcome to the Stone-Paper-Scissors game! This game offers two levels, "easy" and "hard," and allows you to keep track of your total score.
 
 Table of Contents
@@ -9,10 +10,7 @@ How to Play
 Game Rules
 Level Selection
 Scoring
-Installation
-Usage
-Contributing
-License
+
 
 <br>Introduction</br>
 Stone-Paper-Scissors is a classic hand game that has been enjoyed for generations. This digital version of the game offers a choice between "easy" and "hard" levels, where you can compete against the computer in a fun and challenging way.
